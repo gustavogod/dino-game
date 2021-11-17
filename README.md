@@ -13,7 +13,7 @@
 
 ## 🕹️ Jogar
 
-Para jogar basta clicar [neste link](https://gustavogod.github.io/dino-game/). Para saltar os obstáculos, basta pressionar barra de espaço ou seta para cima.
+Para jogar basta clicar [neste link](https://gustavogod.github.io/dino-game/). Para saltar os obstáculos, pressione barra de espaço ou seta para cima.
 
 ## 🛠 Tecnologias utilizadas:
 
