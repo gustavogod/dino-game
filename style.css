@@ -1,0 +1,81 @@
+:root {
+  --bottomHeight: 2%;
+}
+
+* {
+  border: 0;
+  outline: 0;
+  padding: 0;
+  margin: 0;
+  vertical-align: baseline;
+  box-sizing: border-box;
+  font-weight: inherit;
+  font-style: inherit;
+  font-size: 100%;
+}
+
+body {
+  background-color: #fafafa;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.dino {
+  width: 60px;
+  height: 60px;
+  background-image: url(./images/dino.png);
+  position: absolute;
+  bottom: var(--bottomHeight);
+}
+
+.cactus {
+  position: absolute;
+  width: 60px;
+  height: 60px;
+  bottom: var(--bottomHeight);
+  background-image: url(./images/cactus.png);
+}
+
+.score-panel {
+  display: flex;
+  flex-direction: column;
+  color: #666666;
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.score {
+  color: rgb(20, 20, 20);
+}
+
+.game-over {
+  text-align: center;
+  color: #666666;
+  bottom: 50%;
+  font-size: 2rem;
+}
+
+.restart {
+  margin-top: 20px;
+  font-size: 1rem;
+}
+
+.background {
+  position: absolute;
+  bottom: 30vh;
+  background-image: url(./images/background.png);
+  background-repeat: repeat-x;
+  animation: slideright 600s infinite linear;
+  width: 100vw;
+  height: 200px;
+}
+
+@keyframes slideright {
+  from {
+    background-position: 50000%;
+  }
+  to {
+    background-position: 0;
+  }
+}
