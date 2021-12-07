@@ -26,7 +26,7 @@ Para jogar basta clicar [neste link](https://gustavogod.github.io/dino-game/). P
 
 Feito por Gustavo Oliveira Dias 👋🏽
 
-[![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-dias-22117012b/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gustavo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-dias-22117012b/)](https://www.linkedin.com/in/gustavo-dias-22117012b/) 
 [![Gmail Badge](https://img.shields.io/badge/-gustavodias.god@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavodias.god@gmail.com)](mailto:gustavodias.god@gmail.com)
 
 ## 🔑 Licença 
